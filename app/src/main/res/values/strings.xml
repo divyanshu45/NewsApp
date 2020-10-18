@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Live News</string>
+    <string name="top_headlines">TOP HEADLINES</string>
+    <string name="saved_news">SAVED NEWS</string>
+    <string name="title">TITLE</string>
+    <string name="desc">DESCRIPTION</string>
+    <string name="publishedAt">PUBLISHED AT</string>
+    <string name="source">SOURCE</string>
+    <string name="news">NEWS</string>
+</resources>
